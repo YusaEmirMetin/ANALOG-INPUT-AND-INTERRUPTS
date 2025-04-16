@@ -1,8 +1,4 @@
-//Mert Koçoğlu
-//Yaşar Düzgün
-//Yüşa Emir Metin
-//Musta Vanlıoğlu
-//Arda Ali Altıncı
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>
